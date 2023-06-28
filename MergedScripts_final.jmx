@@ -13,8 +13,7 @@
     </TestPlan>
     <hashTree>
       <com.tag.jmeter.ext.config.PropertyReader guiclass="TestBeanGUI" testclass="com.tag.jmeter.ext.config.PropertyReader" testname="Property File Reader" enabled="true">
-        <stringProp name="propFilePath">LHReportsConfig.properties</stringProp>
-        <stringProp name="TestPlan.comments">C:\Users\siva.mutyala\Desktop\DWH_LH_Reports\</stringProp>
+        <stringProp name="propFilePath">C:\Users\siva.mutyala\Desktop\SampleProject\LHReportsConfig.properties</stringProp>
       </com.tag.jmeter.ext.config.PropertyReader>
       <hashTree/>
       <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
